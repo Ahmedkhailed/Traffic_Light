@@ -1,0 +1,11 @@
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\bin\Debug\Traffic_Light.exe.config
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\bin\Debug\Traffic_Light.exe
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\bin\Debug\Traffic_Light.pdb
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.csproj.AssemblyReference.cache
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.ctrlTrafficLight.resources
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.Properties.Resources.resources
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.csproj.GenerateResource.cache
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.csproj.CoreCompileInputs.cache
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.exe
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.pdb
+C:\Users\TOP 10\source\repos\Traffic_Light\Traffic_Light\obj\Debug\Traffic_Light.Form1.resources
